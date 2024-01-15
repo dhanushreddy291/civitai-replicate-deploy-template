@@ -27,8 +27,11 @@ Then, you can run predictions:
 ```bash
 cog predict -i prompt="child boy, short hair, crew neck sweater, (masterpiece, best quality:1.6), ghibli, Sun in the sky, Rocky Mountain National Park, Charismatic"
 ```
+
 ## Example
 
 Output:
 
 ![An Example Output](output.png)
+
+Create a new model on [replicate](https://replicate.com/models) and then push the model to replicate using `cog push` command so given.
