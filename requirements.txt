@@ -3,3 +3,4 @@ accelerate
 diffusers
 transformers
 cog
+requests
