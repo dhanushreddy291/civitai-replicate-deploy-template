@@ -1,0 +1,5 @@
+omegaconf
+accelerate
+diffusers
+transformers
+cog

@@ -1,0 +1,15 @@
+model-cache/model.safetensors
+__pycache__/
+
+# Exclude Git files
+.git
+.github
+.gitignore
+
+# Exclude Python cache files
+.mypy_cache
+.pytest_cache
+.ruff_cache
+
+# Exclude Python virtual environment
+/venv
